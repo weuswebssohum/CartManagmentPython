@@ -1,0 +1,21 @@
+2024-06-22 01:05:39,509 - INFO - Added to cart: person
+2024-06-22 01:05:45,585 - INFO - Added to cart: bottle
+2024-06-22 01:06:06,292 - INFO - Total Price: 95
+2024-06-22 01:06:08,615 - DEBUG - STREAM b'IHDR' 16 13
+2024-06-22 01:06:08,615 - DEBUG - STREAM b'IDAT' 41 960
+2024-06-22 01:06:12,417 - INFO - Total Price: 95
+2024-06-22 01:06:14,922 - INFO - Email sent successfully
+2024-06-22 01:06:18,077 - INFO - Added to cart: person
+2024-06-22 01:10:23,552 - INFO - Total Price: 640
+2024-06-22 01:10:25,598 - DEBUG - STREAM b'IHDR' 16 13
+2024-06-22 01:10:25,598 - DEBUG - STREAM b'IDAT' 41 889
+2024-06-22 01:10:27,999 - INFO - Total Price: 690
+2024-06-22 01:10:30,661 - ERROR - An error occurred: {}
+2024-06-22 01:12:10,405 - INFO - Added to cart: bottle
+2024-06-22 01:12:15,110 - INFO - Added to cart: person
+2024-06-22 01:14:57,072 - INFO - Added to cart: person
+2024-06-22 01:14:58,602 - INFO - Added to cart: bottle
+2024-06-22 01:17:24,443 - INFO - Added to cart: bottle
+2024-06-22 01:17:29,241 - INFO - Added to cart: person
+2024-06-22 01:20:19,373 - INFO - Added to cart: bottle
+2024-06-22 01:20:22,495 - INFO - Added to cart: person
